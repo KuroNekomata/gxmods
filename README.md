@@ -21,7 +21,9 @@ The following areas provide ample opportunities to unleash creativity:
 6. Web modding - tuning web pages to create unique appearances
 7. Shaders - applying visual effects to the whole screen while browsing.
 
-## How to create mods?
+## How to create mods?kora kora
+nande kozo
+
 
 1. Try [sample mods](mods) to see what's possible.
 2. Use [Mod_Template](documentation/Mod_Template) as starting point.
