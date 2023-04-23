@@ -62,6 +62,8 @@ Kaito Kid
 
 ![No Game No Life Zero_2022-11-18_021321_www youtube com](https://user-images.githubusercontent.com/130708720/233866684-e6858f95-d670-4d00-bebc-8b07c151d04e.png)
                                                                                               NANDE
+
+
 ![resim_2023-04-24_001920408](https://user-images.githubusercontent.com/130708720/233866813-5568bc20-06cb-47da-ab84-bfa888955183.png)
 
 Hoshino Ai
