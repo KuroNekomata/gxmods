@@ -42,7 +42,7 @@ Bonus: You can use this [Figma template](https://github.com/opera-gaming/gxmods/
 3. Click _Load unpacked_ and point to directory with manifest.json
 4. Loaded mod will shown in _Mods view_ (opera:mods)
 
-### How to build and share mod?
+### How to build and share mod? YEP
 
 There are two options. Building mod locally and sharing:
 
