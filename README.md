@@ -60,4 +60,9 @@ Or uploading zipped mod to [GX.store](https://operagx.gg/mods2) via [GX.create](
 Yes. It's called [GX.store](https://operagx.gg/mods2) and you can upload mods that you created via [GX.create](https://create.gx.games/mods).
 
 ![Kuro_Neko]![original_623171](https://user-images.githubusercontent.com/130708720/233866424-ad8dd56e-5f57-4576-8421-d8aabbd502fa.jpg) 
+
 Kaito Kid 
+
+![resim_2023-04-24_001920408](https://user-images.githubusercontent.com/130708720/233866813-5568bc20-06cb-47da-ab84-bfa888955183.png)
+
+Hoshino Ai
