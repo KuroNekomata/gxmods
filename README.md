@@ -1,10 +1,13 @@
 # What are Opera GX Mods?
 
-![GXMods]![kaitou-kid-with-detective-conan-e7082vnz5kn669kw](https://user-images.githubusercontent.com/130708720/233866363-9044af02-01c9-426c-bf65-50264e852ed4.jpg)
+![Kuro_Neko]![kaitou-kid-with-detective-conan-e7082vnz5kn669kw](https://user-images.githubusercontent.com/130708720/233866363-9044af02-01c9-426c-bf65-50264e852ed4.jpg)
 
 GX Mods are a collection of customizations that allow users to create unique browsing experiences within Opera GX. With GX Mods, users can modify the browser's appearance, sounds, music, theme, wallpaper and even web content using web modding and shaders.
 
 Users can install multiple mods and choose which elements to enable, giving them full control over the desired final effect.
+
+![No Game No Life Zero_2022-11-18_021321_www youtube com](https://user-images.githubusercontent.com/130708720/233866684-e6858f95-d670-4d00-bebc-8b07c151d04e.png)
+                                                                                              NANDE
 
 
 ## What can be done with mods?
@@ -56,5 +59,7 @@ Or uploading zipped mod to [GX.store](https://operagx.gg/mods2) via [GX.create](
 
 Yes. It's called [GX.store](https://operagx.gg/mods2) and you can upload mods that you created via [GX.create](https://create.gx.games/mods).
 
-![GX.store] ![original_623171](https://user-images.githubusercontent.com/130708720/233866424-ad8dd56e-5f57-4576-8421-d8aabbd502fa.jpg)
+![Kuro_Neko]![original_623171](https://user-images.githubusercontent.com/130708720/233866424-ad8dd56e-5f57-4576-8421-d8aabbd502fa.jpg) 
+
+
 Kaito Kid 
