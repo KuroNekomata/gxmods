@@ -58,6 +58,7 @@ Yes. It's called [GX.store](https://operagx.gg/mods2) and you can upload mods th
 ![Kuro_Neko]![original_623171](https://user-images.githubusercontent.com/130708720/233866424-ad8dd56e-5f57-4576-8421-d8aabbd502fa.jpg) 
 
 Kaito Kid 
+
 星野あいは死んだ
 
 ![No Game No Life Zero_2022-11-18_021321_www youtube com](https://user-images.githubusercontent.com/130708720/233866684-e6858f95-d670-4d00-bebc-8b07c151d04e.png)
